@@ -1,8 +1,4 @@
-# Fichiers à ne jamais mettre dans Git : complétez la ligne ........ (partie 1)
-........
-__pycache__/
-.pytest_cache/
-# Site fabriqué par generer.py : c'est le pipeline qui le produit
+# Site fabriqué par generer.py : c'est le pipeline qui le produit (partie 1)
 _site/
 
 # Fichiers temporaires créés par Python et pytest
